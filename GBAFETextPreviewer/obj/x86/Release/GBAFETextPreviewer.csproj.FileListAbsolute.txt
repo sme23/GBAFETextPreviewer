@@ -1,0 +1,15 @@
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\bin\x86\Release\GBAFETextPreviewer.exe
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\bin\x86\Release\GBAFETextPreviewer.pdb
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.csproj.AssemblyReference.cache
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\MainWindow.g.cs
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\App.g.cs
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer_MarkupCompile.cache
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer_MarkupCompile.lref
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\MainWindow.baml
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.g.resources
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.Properties.Resources.resources
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.csproj.GenerateResource.cache
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.csproj.CoreCompileInputs.cache
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.exe
+C:\Users\esahi\Desktop\GBAFETextPreviewer\GBAFETextPreviewer\obj\x86\Release\GBAFETextPreviewer.pdb
